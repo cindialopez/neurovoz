@@ -53,14 +53,14 @@ export default function CanvasPage() {
                 <svg className="w-3 h-4 text-slate-400" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                   <path d="M12 2C9.5 2 7 4 7 7C7 9.5 9 12 11 14.5L7 22H10.5L13 17.5L15.5 22H19L15 14.5C17 12 19 9.5 19 7C19 4 16.5 2 12 2ZM12 4C14.5 4 15.5 5.5 15.5 7C15.5 8.5 14.5 10.5 12.5 13C10.5 10.5 9.5 8.5 9.5 7C9.5 5.5 10.5 4 12 4Z"/>
                 </svg>
-                Lazo Plata • Concientización Párkinson
+                • Concientización Párkinson
               </span>
             </div>
             <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 md:text-4xl">
               NeuroVoz <span className="text-blue-600">VE</span>
             </h1>
             <p className="text-slate-600 text-sm mt-1.5 max-w-2xl font-medium">
-              Modelo de Negocio e Innovación de Tecnología Asistiva: Inteligencia Artificial Local (Edge AI) para la inclusión comunicativa de pacientes con Párkinson en Venezuela.
+              Modelo de Negocio e Innovación de Tecnología de Asistencia: Inteligencia Artificial Local (Edge AI) para la inclusión comunicativa de pacientes con Párkinson en Venezuela.
             </p>
 
             {/* Controles Multimedia Dinámicos para el Audio Pitch */}
